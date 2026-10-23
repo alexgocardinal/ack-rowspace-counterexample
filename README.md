@@ -14,7 +14,7 @@ adjacency row. Each graph therefore refutes the conjecture.
 - Kurt Sweat — UT Southwestern Medical Center
 - Yetong Xu — Harvard Business School
 
-Corresponding author: Alex Chan, achan@hbs.edu.
+Correspondence: Alex Chan, achan@hbs.edu.
 
 ## Verification
 
