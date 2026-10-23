@@ -11,10 +11,10 @@ adjacency row. Each graph therefore refutes the conjecture.
 ## Authors
 
 - Alex Chan — Harvard University and NBER
+- Weilin Meng — Harvard Business School
 - Kurt Sweat — UT Southwestern Medical Center
-- Yetong Xu — Harvard Business School
 
-Corresponding author: Alex Chan, achan@hbs.edu.
+Correspondence: achan@hbs.edu.
 
 ## Verification
 
