@@ -59,3 +59,8 @@ They do not depend on `sorryAx` or `Lean.ofReduceBool`.
 
 The certificates are embedded in Lean source and checked by Lean.
 No external solver or Python installation is required to verify the proofs.
+
+## Paper
+
+[Read the paper](paper/ack-counterexamples.pdf)
+or view the [LaTeX source](paper/ack-counterexamples.tex).
