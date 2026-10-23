@@ -12,7 +12,7 @@ adjacency row. Each graph therefore refutes the conjecture.
 
 - Alex Chan — Harvard University and NBER
 - Kurt Sweat — UT Southwestern Medical Center
-- Yetong Xu — Harvard Business School
+- Weilin Meng — Harvard Business School
 
 Correspondence: Alex Chan, achan@hbs.edu.
 
