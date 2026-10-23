@@ -1,0 +1,15 @@
+# Local build products
+/.lake/
+*.olean
+*.ilean
+.DS_Store
+__pycache__/
+
+# Local certificate-generation utilities and reports
+/generate_*.py
+/verify_additional_witnesses.py
+/verification.log
+
+# Unused Lake starter examples
+/AckRowspace.lean
+/AckRowspace/
