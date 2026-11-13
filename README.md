@@ -62,5 +62,16 @@ No external solver or Python installation is required to verify the proofs.
 
 ## Paper
 
-[Read the paper](paper/ack-counterexamples.pdf)
-or view the [LaTeX source](paper/ack-counterexamples.tex).
+[Read the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7701198)
+
+[![DOI](https://img.shields.io/badge/DOI-10.7910%2FDVN%2FVG7OBC-blue)](https://doi.org/10.7910/DVN/VG7OBC)
+
+## Research archive and citation
+
+A snapshot of this project is deposited in Harvard Dataverse:
+
+https://doi.org/10.7910/DVN/VG7OBC
+
+Please use the citation provided by Harvard Dataverse when citing the
+archived work. This GitHub repository contains ongoing development;
+the Dataverse record identifies the archived version.
